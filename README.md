@@ -36,7 +36,7 @@ This algorithm is for
 <a href="/data/examples/Interpolation/2_morecontent2.png" target="_blank"><img src="/data/examples/Interpolation/2_morecontent2.png" height="256px" style="max-width:100%;"></a>
 <a href="/data/examples/Interpolation/4_morestyle2.png" target="_blank"><img src="/data/examples/Interpolation/4_morestyle2.png" height="256px" style="max-width:100%;"></a>
 <a href="/data/examples/style2.jpg" target="_blank"><img src="/data/examples/style2.jpg" height="200px" style="max-width:100%;"></a></p>
-<p>It is possible to balance the amount of content and the style in the result: pictures in the second coloumn take more content, and pictures in the third column take more style.</p>
+<p>It is possible to balance the amount of content and the style in the result: pictures in the second column take more content, and pictures in the third column take more style.</p>
 
 # Setup
 This code is based on Torch. It has only been tested on Mac and Ubuntu.
